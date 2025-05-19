@@ -20,10 +20,6 @@ public class Principal {
 		
 		int menuPrin, menuCivil, menuComp;
 		
-		// nuevo codigo
-		int numero1 = 20;
-		int resultado = numero1*20;
-		System.out.println("Resultado");
 		
 		ImplementacionIngCivil impCivil = new ImplementacionIngCivil();
 		
